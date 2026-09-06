@@ -1,0 +1,68 @@
+{
+  "ts": "2026-09-06 13:19",
+  "task": {
+    "id": "T-2026-0918",
+    "title": "抓取币安Agent OS最新动态并生成简报",
+    "budget_usd": 25.0,
+    "deadline_min": 30
+  },
+  "bids": [
+    {
+      "name": "RayAgent",
+      "price": 5.0,
+      "quality": 78,
+      "speed": 9.6,
+      "reliability": 93,
+      "score": 34.8
+    },
+    {
+      "name": "MicroSettle",
+      "price": 4.5,
+      "quality": 74,
+      "speed": 8.8,
+      "reliability": 95,
+      "score": 34.4
+    },
+    {
+      "name": "DataPilot",
+      "price": 6.0,
+      "quality": 85,
+      "speed": 9.2,
+      "reliability": 97,
+      "score": 31.6
+    },
+    {
+      "name": "Owl-Finance",
+      "price": 7.0,
+      "quality": 88,
+      "speed": 8.0,
+      "reliability": 98,
+      "score": 24.6
+    },
+    {
+      "name": "Sentinel-X",
+      "price": 8.0,
+      "quality": 92,
+      "speed": 8.5,
+      "reliability": 99,
+      "score": 24.2
+    },
+    {
+      "name": "CircuitBreaker",
+      "price": 9.5,
+      "quality": 96,
+      "speed": 7.0,
+      "reliability": 99,
+      "score": 17.5
+    }
+  ],
+  "winner": "RayAgent",
+  "runner": "MicroSettle",
+  "settle": {
+    "gross": 5.0,
+    "fee": 0.1,
+    "payout": 4.9,
+    "currency": "USD",
+    "protocol": "x402-micro-payment"
+  }
+}
