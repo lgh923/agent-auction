@@ -1,0 +1,3 @@
+# 核心仅标准库; 仅演示视频制作需要 imageio/websocket
+imageio
+websocket-client
